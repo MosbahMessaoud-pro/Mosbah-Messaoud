@@ -1,6 +1,6 @@
 # Mosbah-Messaoud
 web developer
-## 🚀 My Skills
+## 🚀 My Skills:
 
 - 💻 Languages: JavaScript, Python
 - 🌐 Web: HTML, CSS, JavaScript, Bootstrap
